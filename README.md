@@ -201,17 +201,17 @@ El sistema valida:
 El informe completo (marco teórico, decisiones técnicas, diagrama de flujo, capturas y conclusiones) está disponible en:
 
 - **PDF en el repositorio:** `Avendaño_Mariano_TPI_Informe.pdf`
-- **Enlace directo:** _(agregar enlace al PDF en GitHub una vez subido)_
+- **Enlace directo:** _(https://github.com/maraven/TPI-Programacion1/blob/33a42521aab2333ef672f2281d31d12de0ef8b72/Avenda%C3%B1o_Mariano_TPI_Informe.pdf)_
 
 ## Video demostrativo
 
-> **Enlace al video:** _(agregar URL de YouTube una vez publicado)_
+> **Enlace al video:** _(https://youtu.be/DH1jdYSMvsI)_
 
 El video cubre: presentación del proyecto, recorrido del código, demostración de todas las funcionalidades y manejo de casos de error.
 
 ## Repositorio GitHub
 
-> **URL:** _(agregar URL del repositorio una vez publicado)_
+> **URL:** _(https://github.com/maraven/TPI-Programacion1.git)_
 
 ## Notas para la entrega
 
